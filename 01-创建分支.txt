@@ -1,0 +1,7 @@
+1.在团队开发中，主要的分支叫做master,分支叫做branch
+
+查看分支 $ git branch
+
+2. 创建新的分支
+      
+    $ git branch 分支名称
