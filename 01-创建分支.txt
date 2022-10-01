@@ -9,3 +9,7 @@
 3. 切换到新的分支
 
     $ git checkout 分支名称
+
+4. 创建并且切换到新的分支
+   
+    $ git checkout -b 分支名称
