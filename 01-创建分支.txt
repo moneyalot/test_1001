@@ -5,3 +5,7 @@
 2. 创建新的分支
       
     $ git branch 分支名称
+
+3. 切换到新的分支
+
+    $ git checkout 分支名称
